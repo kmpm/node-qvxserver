@@ -1,0 +1,18 @@
+{
+  "name": "qvxserver",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Demo server for sending qvx files through Hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "event-stream": "^3.2.2",
+    "hapi": "^8.2.0",
+    "qvx": ">=0.0.4"
+  }
+}
