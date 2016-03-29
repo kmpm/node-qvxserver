@@ -1,7 +1,7 @@
 {
   "name": "qvxserver",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Demo server for sending qvx files through Hapi",
   "main": "index.js",
   "scripts": {
